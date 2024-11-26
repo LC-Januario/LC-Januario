@@ -22,3 +22,7 @@ At the moment, I am looking for internship or job opportunities in the area of d
 <br />
 
 #
+
+---
+
+![tumblr_4e74185b0cae6a7f52f20d193883cf4c_74040215_500](https://github.com/user-attachments/assets/9dfe1b38-3dc1-4b76-aa3f-d735dbab2b13)
