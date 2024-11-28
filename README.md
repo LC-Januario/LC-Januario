@@ -4,7 +4,7 @@
 
 ---
 
-Currently, I am studying Mechanical Engineering at UFSC and looking to enter the professional field of data. I worked for 2 years in the automotive repair sector and fell in love with data science in 2023, when I decided to seek a career transition.
+Currently, I am studying Mechanical Engineering at UFSC and looking to enter the market of data science. I worked for 2 years in the automotive repair sector and fell in love with data science in 2023, when I decided to seek a career transition.
 
 I am in the process of completing a Data Science training course at DNC school and developing my thesis on the application of machine learning to create meta-models in solar plant design solutions.
 
