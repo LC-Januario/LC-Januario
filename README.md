@@ -1,18 +1,18 @@
-## Hi, I'm Luiz
+## Olá, eu sou o lUiz
 
-**`Data Scientist (PowerBI | SQL | Python | Machine Learning)`**
-
----
-
-Currently, I am studying Mechanical Engineering at UFSC and looking to enter the market of data science. I worked for 2 years in the automotive repair sector and fell in love with data science in 2023, when I decided to seek a career transition.
-
-I am in the process of completing a Data Science training course at DNC school and developing my thesis on the application of machine learning to create meta-models in solar plant design solutions.
-
-At the moment, I am looking for internship or job opportunities in the area of data analysis or data science.
-
+**`Cientista de Dados (PowerBI | SQL | Python | Machine Learning)`**
 
 ---
-### 🧰 Languages and Tools
+
+Atualmente, estou estudando Engenharia Mecânica na UFSC e buscando entrar no mercado de ciência de dados. Trabalhei por 2 anos no setor de reparo automotivo e me apaixonei por ciência de dados em 2023, quando decidi buscar uma transição de carreira.
+
+Estou em processo de conclusão de um curso de formação em Ciência de Dados na escola DNC e desenvolvendo minha tese sobre a aplicação de aprendizado de máquina para criar meta-modelos em soluções de design de usinas solares.
+
+No momento, estou procurando oportunidades de estágio ou emprego na área de análise de dados ou ciência de dados.
+
+
+---
+### 🧰 Linguagens e Ferramentas
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="ScikitLearn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
@@ -23,6 +23,4 @@ At the moment, I am looking for internship or job opportunities in the area of d
 
 #
 
----
-
-![tumblr_4e74185b0cae6a7f52f20d193883cf4c_74040215_500](https://github.com/user-attachments/assets/9dfe1b38-3dc1-4b76-aa3f-d735dbab2b13)
+--
