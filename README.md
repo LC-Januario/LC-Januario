@@ -1,4 +1,4 @@
-## Olá, eu sou o lUiz
+## Olá, eu sou o Luiz
 
 **`Cientista de Dados (PowerBI | SQL | Python | Machine Learning)`**
 
